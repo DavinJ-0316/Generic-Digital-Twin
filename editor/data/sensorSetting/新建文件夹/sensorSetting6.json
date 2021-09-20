@@ -1,7 +1,0 @@
-{
-  "username": "userA",
-  "sensor": "Staff Room V-159",
-  "url": "https://thingspeak.com/channels/753211/field/2.json?timezone=Australia/Hobart",
-  "type": "temp",
-  "chart": "https://thingspeak.com/channels/753197/charts/2?bgcolor=%23ffffff&color=%23d62020&days=7&dynamic=true&type=line"
-}

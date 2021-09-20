@@ -1,7 +1,0 @@
-{
-  "username": "userA",
-  "sensor": "Tea Room V-116",
-  "url": "https://thingspeak.com/channels/753197/field/1.json?timezone=Australia/Hobart",
-  "type": "nums",
-  "chart": "https://thingspeak.com/channels/753197/charts/1?bgcolor=%23ffffff&color=%23d62020&days=7&dynamic=true&type=line"
-}

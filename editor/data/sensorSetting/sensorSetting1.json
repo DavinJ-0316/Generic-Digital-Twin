@@ -1,7 +1,0 @@
-{
-    "username": "userA",
-    "sensor": "V-110",
-    "url": "https://api.jsonbin.io/b/61481ee2aa02be1d444b7c0a/2",
-    "type": "light",
-    "chart": "https://thingspeak.com/channels/753197/charts/2?bgcolor=%23ffffff&color=%23d62020&days=7&dynamic=true&type=line"
-}
