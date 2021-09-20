@@ -121,7 +121,8 @@ Menubar.File = function(editor) {
     option.setTextContent('Smart Building*');
     option.onClick(function() {
 
- 
+         if (confirm('Make sure you click the Refresh button to clear the content before changing to Smart Farm or Crab Camera')) {
+
 
         //fileInput.click();
         // editor.loader.loadFile("../json/teapot.obj");
@@ -133,10 +134,9 @@ Menubar.File = function(editor) {
         editor.clear();
        
         editor.loader.myLoadFile("https://api.jsonbin.io/b/6147e7939548541c29b5249d/1", true);
-        // if (confirm('!!! For smart building, once it is loaded, you have to click refresh to clear them all before switching to other examples, do you want to continue?')) {
 
-        //     editor.clear();
-        // }
+     
+        }
   
     });
     options.add(option);
@@ -182,6 +182,8 @@ Menubar.File = function(editor) {
     option.setTextContent('Smart Farm*');
     option.onClick(function() {
 
+           
+        if (confirm('Make sure you click the Refresh button to clear the content before changing to Smart Building or Crab Camera')) {
     
     
         //fileInput.click();
@@ -195,12 +197,9 @@ Menubar.File = function(editor) {
         editor.clear();
        
         editor.loader.myLoadFile("https://api.jsonbin.io/b/61480715aa02be1d444b7551/1", true);
-   
-        // if (confirm('!!! For smart farm, once it is loaded, you have to click refresh to clear them all before switching to other examples, do you want to continue?')) {
 
-        //     editor.clear();
-           
-        // }
+
+         }
       
     });
     options.add(option);
