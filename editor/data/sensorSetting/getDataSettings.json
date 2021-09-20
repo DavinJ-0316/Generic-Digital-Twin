@@ -1,0 +1,30 @@
+[
+    {
+        "name": "V-110",
+        "innerRoomName": "V-110"
+    },
+    {
+        "name": "V-111",
+        "innerRoomName": "V-111"
+    },
+    {
+        "name": "V-116",
+        "innerRoomName": "V-116"
+    },
+    {
+        "name": "V-131",
+        "innerRoomName": "V-131"
+    },
+    {
+        "name": "V-154",
+        "innerRoomName": "V-154"
+    },
+    {
+        "name": "V-159",
+        "innerRoomName": "V-159"
+    },
+    {
+        "name": "Entrance",
+        "innerRoomName": "Entrance"
+    }
+]

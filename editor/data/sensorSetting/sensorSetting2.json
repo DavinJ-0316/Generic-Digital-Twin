@@ -1,0 +1,7 @@
+{
+  "username": "userA",
+  "sensor": "V-111",
+  "url": "https://api.jsonbin.io/b/61481e974a82881d6c5237a7/1",
+  "type": "light",
+  "chart": "https://thingspeak.com/channels/752954/charts/2?bgcolor=%23ffffff&color=%23d62020&days=7&dynamic=true&title=UTAS+Newham+Building+V&type=line"
+}
