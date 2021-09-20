@@ -48,7 +48,7 @@ Menubar.Help = function(editor) {
     // })
 
 
-    d3.json('https://api.jsonbin.io/b/61481dca9548541c29b53572')
+    d3.json('https://api.jsonbin.io/b/61481dca9548541c29b53572/1')
     .then(data=>{
         // console.log(data);
 
