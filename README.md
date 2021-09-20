@@ -15,3 +15,5 @@ Generic Digital Twin: A combination of IoT and 3D platform where you can choose 
 
 
 -You can also view the IoT sensor information by clicking Graph button.
+
+View the demonstration: https://davinj-0316.github.io/Generic-Digital-Twin/
