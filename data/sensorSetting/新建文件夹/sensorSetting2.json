@@ -1,0 +1,7 @@
+{
+  "username": "userA",
+  "sensor": "Staff Room V-111",
+  "url": "https://thingspeak.com/channels/752954/field/1.json?timezone=Australia/Hobart",
+  "type": "light",
+  "chart": "https://thingspeak.com/channels/752954/charts/1?bgcolor=%23eeeeee&color=%230000ff&days=7&dynamic=true&title=UTAS+Newham+Building+V&type=line"
+}
