@@ -26,5 +26,9 @@
     {
         "name": "Entrance",
         "innerRoomName": "Entrance"
+    },
+    {
+        "name": "mkjgn",
+        "innerRoomName": "mkjgn"
     }
 ]
