@@ -31,8 +31,6 @@ Generic Digital Twin: A combination of IoT and 3D platform where you can choose 
 
 - Small green ball means there is someone in the room at that moment
 
-- View the demonstration: https://davinj-0316.github.io/Digital-Twin---Smart-Building/?token=password
-
 
 # Different prediction rate:
 
