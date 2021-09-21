@@ -19,7 +19,7 @@ Generic Digital Twin: A combination of IoT and 3D platform where you can choose 
 - View the demonstration: https://davinj-0316.github.io/Generic-Digital-Twin/
 
 
-# Different Prediction Rate:
+# Different prediction rate:
 
 - You can adjust the prediction percentage by adding ?forecast_len_ratio=0.1 or ?forecast_len_ratio=0.2 or ?forecast_len_ratio=0.3
 
