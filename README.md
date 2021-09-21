@@ -25,8 +25,8 @@ Generic Digital Twin: A combination of IoT and 3D platform where you can choose 
 
 - 10% prediction: https://davinj-0316.github.io/Generic-Digital-Twin/?forecast_len_ratio=0.1
 
-- 20% prediction: By Default
+- 20% prediction: By default
 
-- 30% prediction:https://davinj-0316.github.io/Generic-Digital-Twin/?forecast_len_ratio=0.3
+- 30% prediction: https://davinj-0316.github.io/Generic-Digital-Twin/?forecast_len_ratio=0.3
 
 
