@@ -116,7 +116,7 @@ Menubar.Help = function(editor) {
     
                  var title = new UI.Panel();
                  title.setClass('title');
-                 title.setTextContent('Graph');
+                 title.setTextContent('Sensor');
                  container.add(title);
     
                  var options = new UI.Panel();
