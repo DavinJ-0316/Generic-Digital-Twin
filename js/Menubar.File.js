@@ -35,7 +35,7 @@ Menubar.File = function(editor) {
 
             location.reload();
             editor.clear();
-          
+         
 
    
 
@@ -431,6 +431,24 @@ Menubar.File = function(editor) {
     // options.add(new UI.HorizontalRule());
 
     // options.add(new UI.HorizontalRule());
+    
+    var option = new UI.Row();
+    option.setClass('option');
+    option.setTextContent('View Article');
+    option.onClick(function() {
+
+   
+          window.open("https://link.springer.com/chapter/10.1007/978-3-030-82529-4_21", "_blank")
+
+   
+
+    });
+    options.add(option);
+
+    //
+
+    options.add(new UI.HorizontalRule());
+
 
     // Publish
 
