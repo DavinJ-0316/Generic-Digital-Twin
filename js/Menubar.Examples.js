@@ -6,7 +6,7 @@ Menubar.Examples = function(editor) {
       
                    var title = new UI.Panel();
                    title.setClass('title');
-                   title.setTextContent('View Journal');
+                   title.setTextContent('View Journal Article');
                    container.add(title);
       
                    var options = new UI.Panel();
@@ -16,7 +16,7 @@ Menubar.Examples = function(editor) {
       
                    var option = new UI.Row();
                    option.setClass('option');
-                   option.setTextContent('View Journal');
+                   option.setTextContent('Journal Article');
       
                    option.onClick(function() {
                     
