@@ -2,7 +2,7 @@
 
 - I am the developer of this project and one of the authors in the journal article
 
-- view the journal article: https://link.springer.com/chapter/10.1007/978-3-030-82529-4_21
+- View the journal article: https://link.springer.com/chapter/10.1007/978-3-030-82529-4_21
 
 
 # Generic-Digital-Twin
