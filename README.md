@@ -1,3 +1,10 @@
+# Forecasting and Monitoring Smart Buildings with the Internet of Things, Digital Twins and Blockchain
+
+- I am the developer of this project and one of the authors in the journal article
+
+- view the journal article: https://link.springer.com/chapter/10.1007/978-3-030-82529-4_21
+
+
 # Generic-Digital-Twin
 Generic Digital Twin: A combination of IoT and 3D platform where you can choose customised scenarios such as Smart Building, Smart Farm, and Crab Camera. In addition, you can also add 3D components such as sensor, section, object, etc.
 
